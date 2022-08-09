@@ -1,10 +1,10 @@
-# presentacion-
+# Mi nombre es mary 
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Tengo 20 años y soy de venezuela, tengo 3 años viviendo en Argentina, y mi proposito al venir a este hermoso pais era estudiar y decidi empezar esta carrera luego de hacer cursos por mi cuenta.
 
-Ya saben usar git!
+Tengo 3 herman@s uno vive en peru, otra en brasil y otra que es la mayor aca conmigo y mi pequeña sobrina.
+
+Mis padres viven en venezuela. Actualmente estudio en la UNSAM y trabajo en un pequeño empredimiento de comida 
+que lo manejo yo. y mis planes a futuro son aprender y poder ejercer esta carrera :) <3
+
+
